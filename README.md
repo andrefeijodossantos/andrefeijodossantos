@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @andrefeijodossantos.
-- 👀 I’m interested in Games, Theorem Prooving, Physiscs, Researching.
+- 👀 I’m interested in Games, Theorem Prooving, Physiscs, Researching, ...
 - 🌱 I’m currently learning Game Development.
